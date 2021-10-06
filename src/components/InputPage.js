@@ -3,7 +3,7 @@ import React from "react";
 class InputPage extends React.Component {
 
   state = {
-    myInput: 'Enter Text',
+    myInput: 'Enter Text Here',
     changeNames: 'My Family'
   }
 
